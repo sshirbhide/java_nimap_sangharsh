@@ -11,7 +11,7 @@ MySQL: Developing my skills in RDBMS for real-world applications
 Mastering Core Java concepts to enhance my full-stack capabilities
 💼 Previous Experience:
 COVID-19 Data Analysis: Worked on data visualization and pattern analysis using Python and ML algorithms
-Teaching: I teach programming and computer science fundamentals from 6:30 PM to 9:00 PM daily
+
 Working on personal projects related to machine learning and data analytics
 📫 Contact Me:
 Email: sshirbhide@gmail.com
