@@ -1,4 +1,4 @@
-Here’s a concise tabular version of your project description:
+
 
 | **Feature**                    | **Description**                                                    |
 |---------------------------------|--------------------------------------------------------------------|
@@ -11,4 +11,3 @@ Here’s a concise tabular version of your project description:
 | **Spring Boot & JPA**           | Built with Spring Boot, Hibernate, and Spring Data JPA.            |
 | **Deployment**                  | Easily deployed via Maven build and Spring Boot.                   | 
 
-This compact format highlights key project details in an easy-to-read table.
